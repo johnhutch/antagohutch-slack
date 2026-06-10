@@ -5,10 +5,10 @@ I'd just do this in a weekend with Backbone.js Jake. Bones are the future, Yehud
 Jake why are you overcomplicating it. Flash. Boom. Done. Adobe knew what they were doing.
 Hard no Jake. Grunt task runner. Set it and forget it. The whole industry ran on it for a reason.
 Just use AngularJS Jake, the OG one. Two-way binding is magic. Google wouldnt ship junk.
-Jake this is a Jekyll problem and youre making it a not-Jekyll problem. Way simpler. Trust.
+Jake this is a Jekyll problem and youre making it a not-Jekyll problem. Way simpler. Trust. 
 Bro just SOAP it. XML envelopes never lie. Enterprise ran the world on this Jake.
-Honetsly Jake, Meteor.js. Realtime out the box. It was the hottest thing at the time for a reason.
-Jake. Bower. Manage your deps like an adult. Everyone smart used it back then.
+Honetsly Jake, Meteor.js. Realtime out the box. It was the hottest thing at the time for a reason. 
+Jake. Bower. Manage your deps like an adult. Everyone smart still uses it. Just look at the benchmarks.
 Nope. CoffeeScript again Jake. Im not changing my mind, the arrows are cleaner.
 Just spin up a Heroku dyno Jake, why are we even talking. Push to deploy and youre done.
 This is textbook PHP Jake. Rasmus built it to do exactly this. Stop fighting it.

@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 import random  # New import for picking random choices
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
@@ -23,8 +24,12 @@ except FileNotFoundError:
     # A fallback just in case the file goes missing
     RESPONSES = ["Hello there!"]
 
-@app.message()
+@app.event("message")
 def handle_message_events(message, say, logger):
+    # Ignore message subtypes like message_deleted, message_changed, etc. to prevent Unhandled request warnings
+    if message.get("subtype"):
+        return
+
     user_id = message.get("user")
     text = message.get("text", "").lower()
 
@@ -59,7 +64,18 @@ def handle_message_events(message, say, logger):
                     thread_ts=thread_ts
                 )
 
-                logger.info(f"Responded to {user_id} in thread {thread_ts} with a random message.")
+                trigger_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                channel_id = message.get("channel")
+                slack_link = f"https://slack.com/archives/{channel_id}/p{thread_ts.replace('.', '')}"
+                
+                logger.info(
+                    f"\n--- App Triggered ---\n"
+                    f"Date/Time: {trigger_time}\n"
+                    f"Trigger Message: {text}\n"
+                    f"Response: {random_reply}\n"
+                    f"Link: {slack_link}\n"
+                    f"---------------------"
+                )
 
 if __name__ == "__main__":
     print("⚡️ Bolt app is running in Socket Mode!")
