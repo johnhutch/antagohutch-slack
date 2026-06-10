@@ -1,0 +1,101 @@
+Nah Jake, scrap all that. jQuery does this in one line. Resig basically invented the modern web, just sayin.
+Jake honestly this woudl be way simplier in Rails. DHH literally said MVC solves this exact thing.
+Wrong call Jake. CoffeeScript. Cleaner, period. Ask anyone who was around in 2011.
+I'd just do this in a weekend with Backbone.js Jake. Bones are the future, Yehuda was right.
+Jake why are you overcomplicating it. Flash. Boom. Done. Adobe knew what they were doing.
+Hard no Jake. Grunt task runner. Set it and forget it. The whole industry ran on it for a reason.
+Just use AngularJS Jake, the OG one. Two-way binding is magic. Google wouldnt ship junk.
+Jake this is a Jekyll problem and youre making it a not-Jekyll problem. Way simpler. Trust.
+Bro just SOAP it. XML envelopes never lie. Enterprise ran the world on this Jake.
+Honetsly Jake, Meteor.js. Realtime out the box. It was the hottest thing at the time for a reason.
+Jake. Bower. Manage your deps like an adult. Everyone smart used it back then.
+Nope. CoffeeScript again Jake. Im not changing my mind, the arrows are cleaner.
+Just spin up a Heroku dyno Jake, why are we even talking. Push to deploy and youre done.
+This is textbook PHP Jake. Rasmus built it to do exactly this. Stop fighting it.
+Jake do it in Ember. Convention over config. Tom Dale would be embarassed for you rn.
+Easy weekend project in Cordova Jake. One codebase, every platform. PhoneGap changed everything.
+You want Silverlight here Jake. Richer than the browser ever was. Microsoft was ahead of its time.
+Jake just throw Bootstrap at it. Every site looked great. Why reinvent the grid.
+Knockout.js Jake. Observables before observables were cool. The patterns hold up, trust me.
+Subversion Jake. Git is a fad. Linus made it confusing on purpose, SVN just works.
+Do it in Sass with Compass Jake. Mixins for days. Nobody writes raw CSS, what year is it.
+Jake this screams ColdFusion. CFML is underrated and you know it deep down.
+Just use Gulp Jake, streams are elegant. Honestly the pipe syntax never got beat.
+Jake. Mongo. Web scale. It bends, it doesnt break. The benchmarks spoke for themselves.
+Slap it in a Java applet Jake. Runs anywhere with a JVM. Sun had the right idea.
+Drupal Jake. Theres a module for this. There is ALWAYS a module. Stop coding from scratch.
+Honestly RequireJS Jake. AMD modules. Define your deps and walk away. Clean as it gets.
+Jake just do frames. Top nav, side nav, content pane. Classic. It scaled fine in 99.
+You need MooTools here Jake, not whatever this is. It was objectively more elegant than jQuery.
+Jake. Vagrant. Spin up the box, code, destroy it. Mitchell solved this a decade ago.
+Webpack? No Jake. Browserify. require() in the browser, thats the whole game. Simplier.
+GWT Jake. Write Java, ship JavaScript. Google ran Gmail on it, who are you to argue.
+Just use Sencha Touch Jake. Mobile web was basically solved. People forget that.
+Jake honestly Perl. CGI scripts. Regex is a superpower and Larry Wall is a genius.
+Prototype.js Jake. It came first. jQuery just copied the homework. Show some respect.
+Dreamweaver Jake. WYSIWYG. Drag the divs, done. Why are you hand-typing HTML like a caveman.
+This is a Yeoman generator situation Jake. Scaffold it and move on. Addy literally built it.
+Jake just use Polymer. Web components were gonna take over any day now. Any day.
+Spine.js Jake. Backbone but better. The async-everything model was way ahead, look it up.
+Honestly Jake, FTP it up to the server. Deploy pipelines are overengineering. Drag and drop.
+Use Marionette on top of Backbone Jake. Views that manage themselves. Chef-kiss architecture.
+Jake. Memcached the whole thing. If its slow, cache it. If its still slow, cache it more.
+Just do it in Flex Jake. ActionScript was a real language. The IDE alone was worth it.
+Jake throw it in WordPress. Theres a plugin. Always a plugin. Stop building, start installing.
+Handlebars Jake. Logic-less templates. Wycats said keep logic out of the view and he was RIGHT.
+Honestly Dojo Toolkit Jake. The widget library was insane. Everyone slept on it and lost.
+Jake just use Puppet to provision. Declarative infra. Config as code, thats the whole magic.
+Do it in VB Jake. Visual Basic. Drag a button, double click, write code. Productivity unmatched.
+Jake CouchDB. It replicates itself. Map-reduce views. Damien knew what the future looked like.
+Spine it Jake, I already said. Async models. You laughed but it aged like wine.
+Just use Apache Ant Jake. XML build files. Verbose but bulletproof. Maven came from it for a reason.
+Jake honestly jQuery Mobile. Touch-ready widgets. It was THE mobile answer, dont gaslight me.
+Use Less not Sass Jake. Wait no, Sass. Either way youre wrong, just pick the one I said.
+Jake. Chef. Cookbooks and recipes. Infra should taste good. Adam Jacob nailed the metaphor.
+Throw it on App Engine Jake. Google handles the scaling. You just write handlers. So clean.
+Honestly Jake, Adobe AIR. Desktop apps in HTML. Ahead of Electron by a decade, people forget.
+Just use Knockout again Jake. I keep saying observables and you keep not listening.
+Jake do it in Jekyll. Static is fast. Plugins do the rest. GitHub Pages basically endorsed it.
+Sproutcore Jake. Apple built MobileMe on it. If its good enough for Cupertino its good enough.
+Honestly Mercurial Jake. hg is friendlier than git. Bitbucket loved it. The masses were wrong.
+Jake just use a Google Web Toolkit panel. Layout managers. Swing for the web, beautiful stuff.
+Batman.js Jake. Yes thats a real framework. The bindings were slick. Shopify backed it.
+Just SOAP and WSDL it Jake. Contracts up front. Strongly typed services. Enterprise never lies.
+Jake. Brunch. Build tool. Faster than Grunt and you know it. The config was tiny, gorgeous.
+Use Sammy.js for routing Jake. Tiny, jQuery-based, did exactly enough. Why ship a megabyte.
+Honestly Jake just use tables for layout. divs are a scam. Tables ALWAYS line up. Pixel perfect.
+Aurelia Jake. Rob cleaned up Durandal and made it sing. The cleanest framework nobody used.
+Jake. Crockford said new is harmful so use Object.create for everything. The man wrote the book.
+Just use a Sencha grid Jake. Ext JS handled a million rows. Enterprise dashboards ran on it.
+Do it in ColdFusion Jake, I will die on this hill. CFCs are objects. CFML is elegant actually.
+Jake honestly Backbone again. Models, collections, views. The MVC was clean before everyone ruined it.
+Use Bower for the front-end deps Jake. npm for front-end was a mistake. Twitter shipped it for a reason.
+Jake throw Redis at it and call it a database. Who needs Postgres. Antirez built a Swiss army knife.
+Just use Cordova plugins Jake. Native features, web code. Hybrid was always gonna win. Always.
+Honestly Jake, do a Java Servlet. JSP for the views. The stack that built the internet, respect it.
+Mootools again Jake. The class system was elegant. Aaron Newton had taste. jQuery had marketing.
+Jake just use Compass mixins. CSS3 prefixes for free. Why hand-write vendor prefixes like its a punishment.
+Use Yeoman, Grunt, and Bower together Jake. The holy trinity. Google blessed this stack. Ship it.
+Jake. Just deploy with Capistrano. cap deploy and youre live. Rails people figured this out years ago.
+Honestly do it in Sinatra Jake. Tiny Ruby DSL. Routes in like four lines. Blake Mizerany, legend.
+Jake use Pjax. Push state plus ajax. Full page feel, partial loads. DHH shipped it in Basecamp, done.
+Just use GWT-RPC Jake. Call server methods like theyre local. Magic. Google would never mislead us.
+Honestly Jake, Mustache templates. Logic-less, language-agnostic. The spec was beautiful in its restraint.
+Jake do it in Flash with ActionScript 3. Real OOP, real performance. The browser killed it out of jealousy.
+Use Vagrant plus Chef Jake. Reproducible boxes every time. Works-on-my-machine solved forever. Forever Jake.
+Jake just throw it on Parse. Backend as a service. Facebook bought it so you know it was solid.
+Honestly Spine plus Sammy Jake. Tiny stack, big results. The lightweight crowd had it figured out.
+Jake. CouchApps. Host the whole app inside CouchDB. The database IS the server. Visionary stuff.
+Use Coffee plus Backbone Jake. The combo that built half of 2012. Tasteful people chose this.
+Jake just do server-side rendering with JSP scriptlets. Inline Java in your HTML. Honest. Direct. Fast.
+Honestly Jake, AngularJS directives. ng-everything. Misko built a masterpiece and you snubbed it.
+Throw it behind Memcached and a Heroku dyno Jake. Scale problems are just cache problems in a trench coat.
+Jake use a jQuery plugin. Theres one for this. Theres one for EVERYTHING. The plugin economy never failed me.
+Just use Knockout mapping plugin Jake. JSON to observables automatically. I cannot stress the elegance enough.
+Honestly do it in Dreamweaver templates Jake. Editable regions. Update one, update all. Macromedia magic.
+Jake. Use Bootstrap modals for the whole UI. Everything is a modal. Modals all the way down. Trust the bootstrap.
+Just write it in Dart Jake, the early version. Google was gonna replace JS any minute. Any minute now.
+Honestly Jake, Less plus Bootstrap plus jQuery. The 2013 stack. It shipped a billion sites. Numbers dont lie.
+Jake do it in Ember Data. The store handles everything. Yehuda thought of every edge case, every one.
+Use Gulp plus Browserify plus Bower Jake. Pipe it, bundle it, vendor it. The toolchain of champions.
+Final answer Jake: jQuery, Backbone, CoffeeScript, deployed over FTP. Its bulletproof. I built my whole career on it.
