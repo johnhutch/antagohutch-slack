@@ -1,9 +1,12 @@
 import os
+import logging
 from datetime import datetime
 import random  # New import for picking random choices
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 from dotenv import load_dotenv
+
+logging.basicConfig(level=logging.INFO)
 
 load_dotenv()
 
